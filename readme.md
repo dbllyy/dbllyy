@@ -1,8 +1,8 @@
 <div align="center">
     <img src="http://i.imgur.com/y8g506n.png?1" alt="Your Image">
 </div>
-# Billy
-## Qoutes
+
+## Qoutes Billy
 
 "Ketika hidup mu terasa sulit, coba lah menjadi fans Atta Halilintar"
 
