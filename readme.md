@@ -1,5 +1,6 @@
-![](http://i.imgur.com/y8g506n.png?1)
-
+<div align="center">
+    <img src="http://i.imgur.com/y8g506n.png?1" alt="Your Image">
+</div>
 # Billy
 ## Qoutes
 
